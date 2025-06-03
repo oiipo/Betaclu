@@ -1,0 +1,107 @@
+{
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 52,
+                "top": 430
+            },
+            "SETTINGS": {
+                "horizontalOffset": 39,
+                "top": 415
+            }
+        }
+    },
+    "com.aetherteam.aether.client.gui.screen.inventory.AetherAccessoriesScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 49,
+                "top": 429
+            },
+            "SETTINGS": {
+                "horizontalOffset": 37,
+                "top": 414
+            },
+            "MOVE_TO_CONTAINER": {
+                "bottom": 54
+            },
+            "SORT": {
+                "horizontalOffset": -9,
+                "bottom": 1
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -8,
+                "bottom": 1
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 4,
+                "bottom": -11
+            },
+            "CONTINUOUS_CRAFTING": {
+                "bottom": -4
+            }
+        }
+    },
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 4,
+                "bottom": 30
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 4,
+                "top": 19
+            },
+            "SORT": {
+                "top": -14
+            },
+            "SORT_COLUMNS": {
+                "top": -14
+            },
+            "SORT_ROWS": {
+                "top": -14
+            },
+            "SHOW_EDITOR": {
+                "top": 1
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 19,
+                "bottom": -12
+            },
+            "SORT": {
+                "horizontalOffset": 28
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 29
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 30
+            },
+            "CONTINUOUS_CRAFTING": {
+                "horizontalOffset": 11,
+                "bottom": -8
+            },
+            "SHOW_EDITOR": {
+                "top": 12
+            },
+            "SETTINGS": {
+                "top": 8
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.ContainerScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 51,
+                "top": 427
+            },
+            "SETTINGS": {
+                "horizontalOffset": 39,
+                "top": 412
+            }
+        }
+    }
+}

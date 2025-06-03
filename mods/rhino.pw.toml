@@ -1,0 +1,13 @@
+filename = 'rhino-2101.2.7-build.74.jar'
+name = 'Rhino'
+side = 'both'
+
+[download]
+hash = '385b95ab5fb177dfa4f2868ef7b88a2d766bffeb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6184623
+project-id = 416294

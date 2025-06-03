@@ -1,0 +1,13 @@
+name = "Betaclu"
+author = "oiipo"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "de012874dcba5245e21ceaa9b6c357fec7b7d9b9a1c536cb01e4e1d3be5075d3"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.169"

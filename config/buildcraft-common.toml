@@ -1,0 +1,8 @@
+#The maximum amount of fluid a tank can store
+# Default: 8000
+# Range: > 0
+tankCapacity = 8000
+#Whether the tank should keep its fluid after being broken
+tankRetainFluid = true
+#Whether the crate should keep its items after being broken instead of them dropping on the ground
+crateRetainItems = true

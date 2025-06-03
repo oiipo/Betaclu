@@ -1,0 +1,4 @@
+disablerEnabled = true
+disabledEnchantments = ["minecraft:mending"]
+modifyMaxLevels = false
+maxLevels = ["minecraft:sharpness/5"]
