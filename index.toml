@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "871a1222c34c1073c6a42ba60870741e57faa2169e1c0e0eb6d09350cfbcb5ec"
+hash = "3c5afd30b70adf475d71e49f0912539dfbcf11478ed119a4f4e6d502aa07f7ce"
 metafile = true
 
 [[files]]
@@ -612,17 +612,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-ultimine.pw.toml"
-hash = "24b1cc92aa6ad06e80ab0c59b6d0d419bcf0404f24164e13109b56af6033fb41"
+hash = "51255b77ee84c99c0df49db23a9ecd87b6b93c2728f0e369135941e2ba9e6659"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "efa8cedf7ab3b1c441903d450fd8c7362db6c9b689a3ee0de7457d92b6a87d32"
+hash = "8aee3a052ffeb28d813d4f41c7c631fccb6d67b5b146d6b3ff80850c2cd05404"
 metafile = true
 
 [[files]]
 file = "mods/distraction-free-recipes.pw.toml"
-hash = "4583f74e875abb7e6dadf909e31377f8809c0cdabdc2cba0eae0f12939bd6c83"
+hash = "662b7d40eb181816a7dc1a0e74f076a92b0b2b3830fb15110161a1f124caacf5"
 metafile = true
 
 [[files]]
@@ -646,8 +646,8 @@ hash = "d672316ed348c37e6580058d2e53f8d3bb02bccdbdcd05eee3e69d7f6f34b53b"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore.pw.toml"
-hash = "301e70fd9cd138adaee40897ffa59e0f8f2d99878fef42ffa8e0f7ecd4f35cee"
+file = "mods/ferrite-core.pw.toml"
+hash = "91aa75d03c70e5eaa4f61d1616c0e3fc6ecb662730b21cbaeb5c9d58e540fd0c"
 metafile = true
 
 [[files]]
@@ -656,13 +656,8 @@ hash = "8db5d70596602219959041ce41b1e4a87ee36b27d915bfce3ee4388f8f62ab24"
 metafile = true
 
 [[files]]
-file = "mods/free-cam.pw.toml"
-hash = "e2ffd8e59847288514cc8b508ee2b9290bc5aa1078cc2a95b17348345c0800b9"
-metafile = true
-
-[[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "f36ac913ed221624d7177534ce627c6ce504c028b98d3095c6b139ae61df66f8"
+hash = "553ccdc77c50ca0d27964aa877b790cdd38cd26a1936f1ca1a3686d789aec8e1"
 metafile = true
 
 [[files]]
@@ -682,17 +677,17 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "90c44ac4b95a183bdefb8a4ec7bab4eff6e4836534814c57784b192b3113940d"
+hash = "acfe85ba64ca33e1eb2a01e4486675eecd92d53bd1eb500f676adf53551aff2f"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "c756486ca0abb2830ad3c8c190b103729ac2be2b125bae65454478cdc97fda4c"
+hash = "659b7b186e9bfe7a6f463de1a93ce52ee70db50afbe3df64a5641088d98f12c7"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "a5c7f92738c380889c65d239783603bd0cd8d8e2df030526c13c94503505c35d"
+hash = "743aae6bb9326c71e405f609f7946b54eeef610f570fd21fc01ef2e2da3b92c1"
 metafile = true
 
 [[files]]
@@ -707,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "825cc5c88adfc17edb12bd74a8c9b6f5a1d1ff4b27a7ddb280ec3a6f78d00d21"
+hash = "a2b7214f41d75d8c2497487e836640cd7094dd06bebea7d9309c046a9626e3e6"
 metafile = true
 
 [[files]]
@@ -717,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "70021011bdf54fe114a56281382a84437cc46900d0272f1456f935437ab87cf4"
+hash = "39614f1f81b7d42167bc0f4c358faa04f146261a9e8b7f0d5f28a2485827195d"
 metafile = true
 
 [[files]]
@@ -747,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "e0683ac9b5818e1e72b137357b4d85b57a8d23cd13d2dbce0ab50166426e8445"
+hash = "968e86c1be12e7e68e4925ac05b77f753394fc037a5871f3d20f6569a916f411"
 metafile = true
 
 [[files]]
@@ -772,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "d93df41243345787feb37087716544afd267815f142bb66153ee34c1219c9028"
+hash = "17db0e8a9513e2a7175364ea062016041934a83f09f5dcfbf7a0f252ef7880f3"
 metafile = true
 
 [[files]]
