@@ -807,8 +807,8 @@ file = "unasup/__MACOSX/._unsup.jar"
 hash = "b7bd5f37259bb0d9d034e8be842dfe2a874473560466021ba957d6ef95c9782b"
 
 [[files]]
-file = "unasup/index.toml"
-hash = "c9a74720311e75e976bc2716c89e0f225c1a83e4be155f99b33ddbb66813a18a"
+file = "unasup/pack.toml"
+hash = "f62d691f36a8f148910046c5b58d27acbc58d071b2c0ecfea967e3a0f3ded701"
 
 [[files]]
 file = "unasup/unasup.ini"
