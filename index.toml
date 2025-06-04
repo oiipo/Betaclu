@@ -561,6 +561,10 @@ file = "kubejs/startup_scripts/main.js"
 hash = "6e9d76a27bf5e161249ae66713cf51a40e344445a87bb8b9911c6a85995c8f89"
 
 [[files]]
+file = "mods/New Text Document.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "65009a419bb12354bb9858cffb7195333e3ce91027f1af1cc198911659700967"
 metafile = true
@@ -652,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "e91fdc87477c96280dbe398d58e2fcf31e281d87631ecfc425e7232f4370b5de"
+hash = "42b2b4d586013aedd73f0bc322c3610aa54664df7b4936d0ec89647818d5c4a1"
 metafile = true
 
 [[files]]
@@ -797,23 +801,3 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "7878996066d8a2ae500486c5ba5af23276fc18370be05f9dbe827f61de2cbf87"
-
-[[files]]
-file = "unasup/__MACOSX/._unasup.ini"
-hash = "45e52fa8b2ed50a68cffcde564e0d2125da46f31ee230f585ce93ae93fc24149"
-
-[[files]]
-file = "unasup/__MACOSX/._unsup.jar"
-hash = "b7bd5f37259bb0d9d034e8be842dfe2a874473560466021ba957d6ef95c9782b"
-
-[[files]]
-file = "unasup/index.toml"
-hash = "c9a74720311e75e976bc2716c89e0f225c1a83e4be155f99b33ddbb66813a18a"
-
-[[files]]
-file = "unasup/unasup.ini"
-hash = "adab65c69269b93cbce9a7025d01b2d93d1072af11b24535ff65c184c71c836c"
-
-[[files]]
-file = "unasup/unsup.jar"
-hash = "790ab0689bcab9155094a415369d16f8a10b4cf417410998e2a91b960a18998f"
