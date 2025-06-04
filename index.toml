@@ -561,10 +561,6 @@ file = "kubejs/startup_scripts/main.js"
 hash = "6e9d76a27bf5e161249ae66713cf51a40e344445a87bb8b9911c6a85995c8f89"
 
 [[files]]
-file = "mods/New Text Document.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "mods/aether.pw.toml"
 hash = "65009a419bb12354bb9858cffb7195333e3ce91027f1af1cc198911659700967"
 metafile = true
@@ -656,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "7925f488587a60375532784a23c821711918f743f2dcc7fbe3af0f66453b17ff"
+hash = "d8f5f52614841ccf2dd67f529195ac2b7b405a26f5ecb0a3aab1482017dcbe73"
 metafile = true
 
 [[files]]
