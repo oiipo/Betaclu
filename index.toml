@@ -358,7 +358,7 @@ hash = "d65204aa0b1357b56ec0ff4f339dad4c2224de3d81ba2123c19ec3b01ce57840"
 
 [[files]]
 file = "config/modernfix-common.toml"
-hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
+hash = "6058c77fdcde68bc03fe66ad3fd0d143a2277414bd7edba26f5e671b72282fae"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "42b2b4d586013aedd73f0bc322c3610aa54664df7b4936d0ec89647818d5c4a1"
+hash = "7925f488587a60375532784a23c821711918f743f2dcc7fbe3af0f66453b17ff"
 metafile = true
 
 [[files]]
