@@ -517,6 +517,10 @@ file = "config/yacl.json5"
 hash = "1fa97dc3412ea64defd44952854637ba438bdd4a5a7c00728c9dd917e011d9f6"
 
 [[files]]
+file = "figura-0.1.5+1.21.1-neoforge-mc.jar"
+hash = "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "050df4dac58ebda30a898e6c65e91cc4f4e15bcd7c2a19b58ab1c05082e36556"
 
@@ -576,6 +580,11 @@ hash = "9457e5adfc6a4de158fc7a07cdc02695aca14b68fcc3bb80b1c1e9feb46380ff"
 metafile = true
 
 [[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "f9e36561a5f4e52367a0bca291ce68097bf92dbb6cf33665958aeb2fad579d49"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "fe7653003000b95c029417cda699e726636396578b22f0e3d6f599dd17b8918c"
 metafile = true
@@ -596,18 +605,23 @@ hash = "c92d96583747e49e22a673e575f7be2db6cd9b0009c3b8261c277fd359050a2b"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "cbdf559954862f0fc469abfb03f7312980ff3835cdff4840d99c42abc9ad4d57"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "506b632cd7ce0e73cef37ebac220678900348a028ed8d9b01e49036c3cf5e63b"
 metafile = true
 
 [[files]]
-file = "mods/create-ccbr.pw.toml"
-hash = "691667c1e85ab1596e0af68e1d3951bbf1d3ec47d85feffbb7826770bbc59c9e"
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "a46d42471196fb83cd643c6d802e29daa341d872777eee4e896ad0878d612f41"
 metafile = true
 
 [[files]]
-file = "mods/create-pattern-schematics.pw.toml"
-hash = "a46d42471196fb83cd643c6d802e29daa341d872777eee4e896ad0878d612f41"
+file = "mods/create-power-loader.pw.toml"
+hash = "7e39292bd5a96c7227217ea01680643cfb2a129d3ef46dafa3de01ff69a73bd0"
 metafile = true
 
 [[files]]
@@ -621,13 +635,13 @@ hash = "427c34ee0dd2d499dba9ec3bb36f2f279d053390425558b2058577964554e5b7"
 metafile = true
 
 [[files]]
-file = "mods/distraction-free-recipes.pw.toml"
-hash = "f78827ab7f4d63b6c35cc3ae655bc7a8e2b6bad1cdfa2b3cde1cb25e59ba432a"
+file = "mods/creativecore.pw.toml"
+hash = "bee5b49b5a8d06431fe170f0ae5ce6934a3a68d833891d0ff52bb874e40ca09c"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "f76f1656bd4447509672db4bff5753019f78dfe5c78e7c10c35d762944d7fc5b"
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "f78827ab7f4d63b6c35cc3ae655bc7a8e2b6bad1cdfa2b3cde1cb25e59ba432a"
 metafile = true
 
 [[files]]
@@ -652,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "a0d6c1c458975efd2a57b5d8d6920b0647a884cc77463be5716f93c3f0112cb5"
+hash = "8149cdb52f8798891b5287923f3235258703f72019a1c8f5419e764bbbbfd002"
 metafile = true
 
 [[files]]
@@ -676,8 +690,13 @@ hash = "2a62402648f7948ba52de181840a2cf50b45829a8f8e5afd7054b89c093108ab"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "d513a8eb058995beaf47af6db6f80cf05e9966313e8e9997333958d46f4742ff"
+file = "mods/iris.pw.toml"
+hash = "0eab211c9370a122e7471006e1ff3716e97b7b7a067804e0acecd0c97ffc3b6c"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "8303ca85e25bde4ecb3d3f74de573d97e7f41d7502a3ae455454bdb32f2746b8"
 metafile = true
 
 [[files]]
@@ -703,6 +722,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8c60be0757049bcbd4c8058e417130acc03f3390ce8197cbe61178641867087"
+metafile = true
+
+[[files]]
+file = "mods/littletiles.pw.toml"
+hash = "2636d7c3a12d5347a53320564284c45534a13db598ff1184e93a458048951e2f"
 metafile = true
 
 [[files]]
@@ -756,6 +780,11 @@ hash = "804a2d7237a5e7ca86c92dfabc7cea6f96d0db3eeb7e25eaf0c9785802cf2ecb"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "c5a18fb9305573838b957b3ea468bda48ac2adbc149333a6b7912eba81ccd0cf"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "7d7526369bac2af3526ec1a27a91a7569a094f68c65a0445c847e366b7b8c6d3"
 metafile = true
@@ -763,6 +792,11 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "7831a4ec6389e0c3252db14bb014c20f382512ad2bc5451b9d73e42728bac813"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "4742d052f74e0a6c23b66baa18b487b014698445b39ed6357132589354174b43"
 metafile = true
 
 [[files]]
@@ -783,6 +817,16 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "a045b7a031e593219bb12a80155d3685d0eb1f7216f53c28b52b0e43e4d66f09"
+
+[[files]]
+file = "removed/create-ccbr.pw.toml"
+hash = "691667c1e85ab1596e0af68e1d3951bbf1d3ec47d85feffbb7826770bbc59c9e"
+metafile = true
+
+[[files]]
+file = "removed/embeddium.pw.toml"
+hash = "f76f1656bd4447509672db4bff5753019f78dfe5c78e7c10c35d762944d7fc5b"
+metafile = true
 
 [[files]]
 file = "resourcepacks/create-world-of-color.pw.toml"
