@@ -625,6 +625,11 @@ hash = "7e39292bd5a96c7227217ea01680643cfb2a129d3ef46dafa3de01ff69a73bd0"
 metafile = true
 
 [[files]]
+file = "mods/create-simple-ore-doubling.pw.toml"
+hash = "5a9821eef8654efe5e3ea93408f0069b873633e6a15865f4dcc32e5c48a410ba"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimine.pw.toml"
 hash = "5d39dacf0c1d2cd9abde6d87388e8bbbaec54a84c7754019702ba5217c0934e6"
 metafile = true
