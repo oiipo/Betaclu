@@ -610,8 +610,23 @@ hash = "cbdf559954862f0fc469abfb03f7312980ff3835cdff4840d99c42abc9ad4d57"
 metafile = true
 
 [[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "4e257681e2a89397d7b52e57f187b7b1e3e3f901b56940a3294abda717992c6f"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "d8b48452b5e57c299e6d81170014d166ccac886972ee0093b2ebc0dcbc4f7143"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "506b632cd7ce0e73cef37ebac220678900348a028ed8d9b01e49036c3cf5e63b"
+metafile = true
+
+[[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "5c4277f21ef8436c35b9c4dd501c300a39cbfcd987455001f525a8d8b291e334"
 metafile = true
 
 [[files]]
@@ -672,6 +687,11 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "8149cdb52f8798891b5287923f3235258703f72019a1c8f5419e764bbbbfd002"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "7d65677a7217902438defbdb64c924e91f5a119b06ad2a4bcb7e7d1d6dcd42d3"
 metafile = true
 
 [[files]]
@@ -770,6 +790,16 @@ hash = "89b18bd5824a0e2e8cec29856e0546df90bbb21797ee5ee8ce7771c220c388c8"
 metafile = true
 
 [[files]]
+file = "mods/perfect-parity-1-21-5.pw.toml"
+hash = "aeb3b961fac7c0076f38b2b1ab92f0319d27a7571abbbee5b905f553b839bee1"
+metafile = true
+
+[[files]]
+file = "mods/perfect-parity-the-garden-awakens-edition.pw.toml"
+hash = "31a2de456c7f36257e5c3969e0aca6b6f05aa970e9352f59bd2de0f322666c32"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "079462406710a543970b3df60d8108c275f6de308fc843d1df6109f608f6f436"
 metafile = true
@@ -797,6 +827,11 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "7831a4ec6389e0c3252db14bb014c20f382512ad2bc5451b9d73e42728bac813"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "3773134fe0c46662174263269b77361287ba40bd90348a30f908b89df98e8e63"
 metafile = true
 
 [[files]]
