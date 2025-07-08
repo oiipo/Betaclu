@@ -730,11 +730,6 @@ hash = "5ebb414db4f25b84bf0b3e7646717fd91e84a0c9b95b631fe16ebd0f1f18e5e2"
 metafile = true
 
 [[files]]
-file = "mods/kubejs.pw.toml"
-hash = "019ebf69189425539852a0a028f180cfe09bcd8d2a5165b2bf2777a8548dc391"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights-unofficial-neoforge.pw.toml"
 hash = "0a7f92ab6d84daae9fdd3995f0fd509808b3ab8d1851253d4b0e45a41b474ec2"
 metafile = true
