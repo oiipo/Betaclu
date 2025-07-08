@@ -1,0 +1,13 @@
+filename = 'perfect-parity-pg-1.0.8.jar'
+name = 'Perfect Parity: The Garden Awakens Edition'
+side = 'both'
+
+[download]
+hash = 'e60268de472a9c322c95e710b2fe70d9a7aa73c83d21a910bfc255991f1eafc4b919c4f463355001e5f2ef5a1937562ab90a9a84dbfffe4e33e78bcefe1a4dab'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c5D2GEKj/versions/Aec5UUGP/perfect-parity-pg-1.0.8.jar'
+
+[update.modrinth]
+mod-id = 'c5D2GEKj'
+version = 'Aec5UUGP'

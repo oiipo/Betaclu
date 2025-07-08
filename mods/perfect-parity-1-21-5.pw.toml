@@ -1,0 +1,13 @@
+filename = 'perfect-parity-1.1.7.jar'
+name = 'Perfect Parity: Spring To Life Edition'
+side = 'both'
+
+[download]
+hash = 'ca8d257dd90030bcd47541457ee88d2ae14542bcdf6eb6c8a97264162342d4c6f4ad21dfc789cc55d373e32ee0821a7614ca863e40faa08248b943cf00206d9c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vNcwrI3H/versions/5zLmlrYp/perfect-parity-1.1.7.jar'
+
+[update.modrinth]
+mod-id = 'vNcwrI3H'
+version = '5zLmlrYp'

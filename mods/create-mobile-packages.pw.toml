@@ -1,0 +1,13 @@
+filename = 'create_mobile_packages-1.21.1-0.5.3.jar'
+name = 'Create: Mobile Packages'
+side = 'both'
+
+[download]
+hash = '17a67106a8b67d2128bfc60c08dbc194663b8df0f966234966b12808f8f3b53d164be39f2699841308a0cedce1c239225072ced3812d0de3b6fa9103fd537be1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1vXRfEHZ/versions/cMrltBDO/create_mobile_packages-1.21.1-0.5.3.jar'
+
+[update.modrinth]
+mod-id = '1vXRfEHZ'
+version = 'cMrltBDO'
