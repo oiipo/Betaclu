@@ -770,11 +770,6 @@ hash = "cfb93be517ce4871d1200fc5ced191f033c6ae6f4ece599e21bec17b34900cda"
 metafile = true
 
 [[files]]
-file = "mods/nostalgic-tweaks.pw.toml"
-hash = "24475e2f4ab343f43471df8b442c2ef21a45f02106ab52aaf0fcdcc31e7f1806"
-metafile = true
-
-[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "2ab05f48a4858766eee26d33a984fec384e24eb34939232214c6101b5c43b31e"
 metafile = true
