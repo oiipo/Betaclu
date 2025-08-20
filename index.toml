@@ -775,6 +775,11 @@ hash = "2ab05f48a4858766eee26d33a984fec384e24eb34939232214c6101b5c43b31e"
 metafile = true
 
 [[files]]
+file = "mods/orthocamera.pw.toml"
+hash = "54f83963bdefc02c02e23e6c37bba97208ed504529e45a15d3be81deff77339e"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "89b18bd5824a0e2e8cec29856e0546df90bbb21797ee5ee8ce7771c220c388c8"
 metafile = true
@@ -832,6 +837,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "a26f7f73abdaa77b81a0ffaa3b72e2764340d49026f416216e152bb9064ba628"
+metafile = true
+
+[[files]]
+file = "mods/xaero-train-map.pw.toml"
+hash = "055508f48abfc3dc9705337d324fe839bbc88cd5cd06ce77f65b4bd2c976a983"
 metafile = true
 
 [[files]]
