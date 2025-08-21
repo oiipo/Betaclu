@@ -625,6 +625,11 @@ hash = "506b632cd7ce0e73cef37ebac220678900348a028ed8d9b01e49036c3cf5e63b"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "98f1f22a846713d35b2375d4a88b18836e11f427734527d729dc1b89e7fb4da3"
+metafile = true
+
+[[files]]
 file = "mods/create-mobile-packages.pw.toml"
 hash = "5c4277f21ef8436c35b9c4dd501c300a39cbfcd987455001f525a8d8b291e334"
 metafile = true
